@@ -1,0 +1,1 @@
+My plugins for [NINJA-IDE](http://ninja-ide.org)
